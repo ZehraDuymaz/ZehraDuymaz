@@ -19,9 +19,6 @@ So trying to get better and more consistent.
 * Working on a full stack project with C# and Typescript (C# always reminds me Rachmaninov) 
 * Also interested in embedded systems, robotics and low level things too. 
 * Has an unnecessary amount of useless interests:) (bc why not)
-* Non-greedy, amateur music person. 
-* Loves Geoguessr and geography things and languages and cultures (nerd)
-* An existentialist who's practicing stoicism (totally makes sense)
 * Should really do a project with C++.
 * Hoping to be employed one day... 
 
