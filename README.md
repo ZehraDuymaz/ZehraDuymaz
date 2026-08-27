@@ -5,7 +5,7 @@ well well well
 ## Welcome to my VERY PROFESSIONAL profile:)
 
 <img width="200" height="200" alt="st,small,507x507-pad,600x600,f8f8f8" src="https://github.com/user-attachments/assets/7d4acb57-cb53-4708-b2dd-11fbc982e4c3" />
-
+<br></br>
 
 I have been interested in software stuff for so long but no consistency:(
 
@@ -27,5 +27,4 @@ So trying to get better and more consistent.
 
 Thanks for dropping by:)
 
-just putting this here in case one day i started to flex and feel proud etc. 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZehraDuymaz&show_icons=true&theme=radical)
+
