@@ -10,7 +10,7 @@ I have been interested in software stuff for so long but no consistency:(
 So trying to get better and more consistent.
 ---
 
-###Fun Facts
+### Fun Facts
 
 * CachyOS + Hyprland + Noctalia setup btw! (I had to say that)
 * Experienced in HTML, CSS, JS (but who cares about those now?)
